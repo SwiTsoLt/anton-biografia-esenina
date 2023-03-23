@@ -1,0 +1,10 @@
+:root {
+    --black-wall: #00000060;
+    --text-color: #ffffff; 
+    --max-width: 1200px;
+    --padding-s: 10px;
+    --padding-m: 20px;
+    --padding-l: 30px;
+    --border-radius: 8px;
+    --fs: 1.2em;
+}
